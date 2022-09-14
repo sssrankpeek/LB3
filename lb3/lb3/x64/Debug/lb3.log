@@ -1,0 +1,13 @@
+﻿  Source.c
+C:\Users\TEMP\source\repos\lb3\lb3\Source.c(29,9): error C2220: следующее предупреждение рассматривается как ошибка
+C:\Users\TEMP\source\repos\lb3\lb3\Source.c(29,9): warning C4473: "printf": передано недостаточно аргументов для строки формата
+C:\Users\TEMP\source\repos\lb3\lb3\Source.c(29,9): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+C:\Users\TEMP\source\repos\lb3\lb3\Source.c(29,9): message : отсутствующий вариативный аргумент "1" требуется для строки форматирования "%12s"
+C:\Users\TEMP\source\repos\lb3\lb3\Source.c(31,9): warning C4477: "printf": в строке форматирования "%12s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "double"
+C:\Users\TEMP\source\repos\lb3\lb3\Source.c(31,9): warning C4473: "printf": передано недостаточно аргументов для строки формата
+C:\Users\TEMP\source\repos\lb3\lb3\Source.c(31,9): message : заполнители и их параметры ожидают переменное число аргументов в количестве 7, но было предоставлено 6
+C:\Users\TEMP\source\repos\lb3\lb3\Source.c(31,9): message : отсутствующий вариативный аргумент "7" требуется для строки форматирования "%g"
+C:\Users\TEMP\source\repos\lb3\lb3\Source.c(33,9): warning C4477: "printf": в строке форматирования "%12s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "double"
+C:\Users\TEMP\source\repos\lb3\lb3\Source.c(33,9): warning C4473: "printf": передано недостаточно аргументов для строки формата
+C:\Users\TEMP\source\repos\lb3\lb3\Source.c(33,9): message : заполнители и их параметры ожидают переменное число аргументов в количестве 4, но было предоставлено 3
+C:\Users\TEMP\source\repos\lb3\lb3\Source.c(33,9): message : отсутствующий вариативный аргумент "4" требуется для строки форматирования "%g"
